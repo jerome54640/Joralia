@@ -118,7 +118,7 @@
         "announcement_AazbRk": {
           "type": "announcement",
           "settings": {
-            "text": "SOLDES DERNIÈRE DÉMARQUE",
+            "text": "<strong>SVENDITA ULTIMI SALDI Fino al 70%</strong>",
             "text_alignment": "center",
             "mobile_text_size": 12,
             "desktop_text_size": 20,
