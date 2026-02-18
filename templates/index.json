@@ -19,7 +19,7 @@
             "mobile_image": "shopify://shop_images/Ma_prima_goditi_il_meglio_1_copie_2_26bf5c0b-f81d-450b-a892-c5f6e0a10547.png",
             "image_overlay_opacity": 0,
             "heading": "I leggings 3D anticellulite di nuova generazione!",
-            "title_highlight_color": "#6d388b",
+            "title_highlight_color": "#ffffff",
             "heading_size": "h2",
             "subheading": "Tell your brand's story through images",
             "button_label": "Aquista Ora",
@@ -37,9 +37,9 @@
             "custom_colors_background": "#ffffff",
             "custom_gradient_background": "",
             "custom_colors_text": "#2e2a39",
-            "custom_colors_solid_button_background": "#dd1d1d",
+            "custom_colors_solid_button_background": "#f3eff5",
             "custom_colors_solid_button_text": "#ffffff",
-            "custom_colors_outline_button": "#dd1d1d"
+            "custom_colors_outline_button": "#f3eff5"
           }
         },
         "template--21507361505575__cfca4268-6358-426c-98ab-d292aeef11e5-slide-2": {
