@@ -82,64 +82,10 @@
         "padding_top": 20,
         "padding_bottom": 20
       }
-    },
-    "horizontal_ticker_FLg9LM": {
-      "type": "horizontal-ticker",
-      "blocks": {
-        "text_zDj3hA": {
-          "type": "text",
-          "settings": {
-            "title": "SVENDITA ULTIMI SALDI Fino al 70%"
-          }
-        },
-        "text_QCHWfJ": {
-          "type": "text",
-          "settings": {
-            "title": "SVENDITA ULTIMI SALDI Fino al 70%"
-          }
-        },
-        "text_nhjGXU": {
-          "type": "text",
-          "settings": {
-            "title": "SVENDITA ULTIMI SALDI Fino al 70%"
-          }
-        }
-      },
-      "block_order": [
-        "text_zDj3hA",
-        "text_QCHWfJ",
-        "text_nhjGXU"
-      ],
-      "name": "Horizontal Ticker",
-      "settings": {
-        "visibility": "always-display",
-        "speed": 3,
-        "mobile_spacing": 60,
-        "desktop_spacing": 100,
-        "color_scheme": "background-1",
-        "mobile_text_size": 16,
-        "desktop_text_size": 18,
-        "italic_text": false,
-        "uppercase_text": false,
-        "bold_text": false,
-        "mobile_image_height": 26,
-        "desktop_image_height": 40,
-        "hidden_products": "",
-        "enable_specific_display": false,
-        "displayed_products": "",
-        "mobile_padding_top": 12,
-        "mobile_padding_bottom": 12,
-        "desktop_padding_top": 16,
-        "desktop_padding_bottom": 16,
-        "custom_colors_background": "#ffffff",
-        "custom_gradient_background": "",
-        "custom_colors_text": "#6d388b"
-      }
     }
   },
   "order": [
     "2c2ec774-3430-481f-b927-e9c035b9d24e",
-    "header",
-    "horizontal_ticker_FLg9LM"
+    "header"
   ]
 }
